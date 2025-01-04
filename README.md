@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Banner](https://github.com/user-attachments/assets/e2dac9bc-fc07-47a0-8ca4-8c4cf8e4b0d8)
+
 # Welcome to Saravanan Veerakumar's GitHub Profile.
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Saravanan-Veerakumar)
+![Profile Views](https://img.shields.io/github/views/github/Saravanan-Veerakumar?style=social)
 
 Welcome to my personal GitHub repository! Here you'll find a collection of my projects, learning experiences, and contributions in the fields of **AI**, **Machine Learning**, and **Software Development**. Feel free to explore my work and connect with me for collaboration opportunities.
 
