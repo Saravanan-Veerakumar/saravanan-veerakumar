@@ -21,21 +21,6 @@ Welcome to my personal GitHub repository! Here you'll find a collection of my pr
 
 ---
 
-## 🚀 Featured Projects
-
-- **[Facial Recognition System](#)**  
-   A deep learning-based facial recognition system that identifies and verifies faces in images or videos.
-
-- **[Text Generation with GPT-2](#)**  
-   An AI-powered model for generating medical billing codes based on clinical notes.
-
-- **[COVID-19 Detection with X-Ray Images](#)**  
-   A computer vision project using a convolutional neural network to detect COVID-19 from chest X-ray images.
-
----
-
----
-
 ## 💡 About Me
 
 I'm passionate about applying AI to solve real-world problems, especially in **medical billing**, **RCM**, and **computer vision**. My goal is to create solutions that drive innovation and efficiency in the healthcare industry.
@@ -46,8 +31,6 @@ I'm passionate about applying AI to solve real-world problems, especially in **m
 
 ---
 
----
-
 ## 📬 Get In Touch
 - **Email**: [saravananv1925@gmail.com](mailto:saravananv1925@gmail.com)
 - **LinkedIn**: [linkedin.com/in/saravanan-veerakumar](https://linkedin.com/in/saravanan-veerakumar)
@@ -55,7 +38,7 @@ I'm passionate about applying AI to solve real-world problems, especially in **m
 ---
 
 ## 📝 License
-This repository is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/).
+This repository is licensed under the copyright protection, All rights reserved.
 
 ---
 
