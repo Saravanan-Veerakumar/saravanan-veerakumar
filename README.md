@@ -34,13 +34,6 @@ Welcome to my personal GitHub repository! Here you'll find a collection of my pr
 
 ---
 
-## 🎧 Background Music
-
-While you explore, enjoy some background music!  
-Click below to play:
-
-[🎵 Listen to the music](https://example.com/your-audio-file.mp3)
-
 ---
 
 ## 💡 About Me
@@ -50,19 +43,14 @@ I'm passionate about applying AI to solve real-world problems, especially in **m
 ### 🎓 Education:
 - PG in AI & ML
 - B.E. in Electrical and Electronics Engineering (EEE)
-- Pursuing M.Sc. in Applied Statistics
 
 ---
-
-## 🌱 What I'm Working On
-Currently, I’m exploring advanced concepts in **Reinforcement Learning** and **Natural Language Processing**. I'm also working on a **chatbot** project aimed at automating patient queries in healthcare.
 
 ---
 
 ## 📬 Get In Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [saravananv1925@gmail.com](mailto:saravananv1925@gmail.com)
 - **LinkedIn**: [linkedin.com/in/saravanan-veerakumar](https://linkedin.com/in/saravanan-veerakumar)
-- **Twitter**: [@SaravananVee](https://twitter.com/SaravananVee)
 
 ---
 
