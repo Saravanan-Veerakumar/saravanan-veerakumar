@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner](https://github.com/user-attachments/assets/e2dac9bc-fc07-47a0-8ca4-8c4cf8e4b0d8)
 # Welcome to Saravanan Veerakumar's GitHub Profile.
 
 Welcome to my personal GitHub repository! Here you'll find a collection of my projects, learning experiences, and contributions in the fields of **AI**, **Machine Learning**, and **Software Development**. Feel free to explore my work and connect with me for collaboration opportunities.
 
 ---
-![Banner](https://github.com/user-attachments/assets/e2dac9bc-fc07-47a0-8ca4-8c4cf8e4b0d8)
 
 ## 🚀 Featured Projects
 
