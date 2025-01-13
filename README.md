@@ -46,3 +46,9 @@ This repository is licensed under the copyright protection, All rights reserved.
 Feel free to fork, star, or clone any of my repositories. I'm always open to new ideas and collaborations!
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saravanan-veerakumar&theme=tokyonight&show_icons=true)
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+
